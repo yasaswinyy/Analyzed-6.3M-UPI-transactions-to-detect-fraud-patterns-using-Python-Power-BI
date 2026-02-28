@@ -26,4 +26,4 @@ This project identifies fraud behavioral signatures similar to real-world cybers
 ## Author
 **D Yasaswiny**
 MSc Data Science | Aspiring Data Analyst  
-📧 dumuyasaswiny | 🔗 https://www.linkedin.com/in/d-yasaswiny-593b54336?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8N3ovgjPSI6IBIqmycBvKw%3D%3D
+📧 dumuyasaswiny@gmail.com | 🔗 https://www.linkedin.com/in/d-yasaswiny-593b54336?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8N3ovgjPSI6IBIqmycBvKw%3D%3D
