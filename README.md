@@ -18,8 +18,7 @@ Analyzed 6.3 million+ real-world UPI payment transactions to identify fraud patt
 - Dataset: PaySim - 6.3M transactions
 
 ## Dashboard Preview
-![Dashboard](UPI-Fraud-Analysis.pbix)
-
+![Dashboard](UPI-Fraud-Analysis (2).pbix)
 ## Cybersecurity Angle
 This project identifies fraud behavioral signatures similar to real-world cybersecurity threat analysis — account draining patterns, high-value targeting, and specific attack vectors used by fraudsters.
 
